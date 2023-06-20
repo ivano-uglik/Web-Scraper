@@ -3,21 +3,26 @@ const fs = require("fs/promises");
 
 async function scrapeScrape() {
   // launch browser, go to new page, go to the website of the school
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto("http://ss-tehnicka-ntesla-vu.skole.hr/");
-
-  // get the number of artikli, to use later to open each of them and extract info
+  ``;
   const brojClanaka = await page.$$eval(
     "#content > div.clanak > div.srednji_stupac_tijelo.mod_news > div > div > a",
     (clanci) => {
-      return clanci.map((x) => x.getAttribute("href"));
+      const filteredClanci = clanci.filter(
+        (x) => x.textContent.trim() === "više"
+      );
+      return filteredClanci.map((x) => x.getAttribute("href"));
     }
   );
 
   const articles = [];
   // for loop which loops through each clanak
   for (let i = 0; i < brojClanaka.length; i++) {
+    console.log(brojClanaka[i]);
+
+    const id = i;
     // go to each clanak
     await page.goto("http://ss-tehnicka-ntesla-vu.skole.hr" + brojClanaka[i]);
 
@@ -29,12 +34,20 @@ async function scrapeScrape() {
       }
     );
 
-    const getImgs = await page.$$eval("#result > a", (titles) => {
-      return titles.map((x) => x.getAttribute("href"));
+    const getImgs = await page.$$eval("#result > a", (imgs) => {
+      return imgs.map((x) => x.getAttribute("href"));
     });
 
-    articles.push({ getTitle, getImgs });
-    console.log(articles);
+    const getText = await page.$$eval(
+      "#content > div.clanak > div.srednji_stupac_tijelo.mod_news > div > div > div.news_more_lead > *, #content > div.clanak > div.srednji_stupac_tijelo.mod_news > div > div > div.news_more_body > *",
+      (texts) => {
+        return texts.map((x) => x.textContent);
+      }
+    );
+
+    articles.push({ id, getTitle, getImgs, getText });
+
+    console.log(articles[i]);
   }
 
   await browser.close();
@@ -44,11 +57,11 @@ async function scrapeScrape() {
 
 scrapeScrape()
   .then((data) => {
-    const jsonData = data.map(({ getTitle, getImgs }) => {
-      const article = { getTitle, getImgs };
+    const jsonData = data.map(({ id, getTitle, getImgs, getText }) => {
+      const article = { id, getTitle, getImgs, getText };
       return JSON.stringify(article, null, 2) + "\n";
     });
-    return fs.writeFile("data.json", jsonData.join(""));
+    return fs.writeFile("../blogs/data.json", jsonData.join(""));
   })
   .then(() => {
     console.log("Data has been written to data.json");

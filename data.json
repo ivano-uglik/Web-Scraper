@@ -2,39 +2,60 @@
   "getTitle": [
     "Literarni i likovni natječaj naše škole"
   ],
-  "getImgs": []
-}
-{
-  "getTitle": [
-    "Literarni i likovni natječaj naše škole"
-  ],
-  "getImgs": []
+  "getImgs": [],
+  "getText": [
+    "",
+    "U prilogu se nalazi natječaj Tehničke škole Nikole Tesle u Vukovaru.",
+    "\n",
+    "",
+    "",
+    "PRVI NATJEČAJ TEHNIČKE ŠKOLE NIKOLE TESLE U VUKOVARU",
+    " ",
+    " ",
+    "Tehnička škola Nikole Tesle Vukovar organizira literarni i fotografski natječaj namijenjen svim učenicima osnovnih i srednjih škola s područja Vukovarsko-srijemske županije na temu „Borovo u srcu“. Tema natječaja „Borovo u srcu“ uključuje literarne (prozne i poetske tekstove) i fotografske radove o temi Borova (tvornica i naselje) kroz prošlost i u sadašnjosti. Pokušajte svojim radovima odgovoriti nam što je to Borovo imalo, što je dalo generacijama stanovnika naše županije, što je predstavljalo i što sve čini danas da nam je lijepo baš ovdje.",
+    "Svoje radove šaljite na: irina.maric1@skole.hr",
+    "Prijave traju od 7. 6. 2023. do 7. 7. 2023.",
+    "Objava rezultata bit će na službenoj stranici Tehničke škole Nikole Tesle Vukovar 10. srpnja 2023. u 12:00 sati. Nagrađeni učenici i njihovi mentori bit će pozvani u Tehničku školu Nikole Tesle na obilježavanje Dana škole kada će im u sklopu programa biti uručene nagrade te će imati priliku pročitati i predstaviti svoje radove.",
+    "Svaka škola može poslati do 5 literarnih i do 5 fotografskih radova sa sljedećim podatcima:",
+    " 1. Ime i prezime učenika",
+    "2. Razred i ime škole",
+    "3. Ime i prezime mentora",
+    "4. Kontakt škole i mentora",
+    "Radovi do sada ne smiju biti objavljivani i predstavljani.",
+    "Tekstovi moraju biti pisani Times New Roman, veličina 12, prored 1,5",
+    " ",
+    ""
+  ]
 }
 {
   "getTitle": [
     "U PONUDI ZA UPIS U PRVI RAZRED 2023./2024. SLJEDEĆI PROGRAMI:"
   ],
-  "getImgs": []
+  "getImgs": [],
+  "getText": [
+    "",
+    "\n\n\nTEHNIČKA ŠKOLA NIKOLE TESLE VUKOVAR\n\n\n",
+    "\n\nBLAGE ZADRE 4\n\nVUKOVAR\n\nTel: 032 423 025\n\n\n\nUpisi u prvi razred 2023./2024.\n\n\nElektronička adresa za pitanja i dostavu dokumentacije \n\nupisi.tehnicka.vukovar@gmail.com  \n\n   \n\n\n\t\n\t\t\n\t\t\t\n\t\t\tNaziv zanimanja\n\t\t\t\n\t\t\t\n\t\t\tBroj učenika\n\t\t\t\n\t\t\t\n\t\t\tBODOVANJE SLJEDEĆIH PREDMETA VII. I VIII. RAZREDA:\n\t\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\tEkološki tehničar – 4 godine\n\t\t\t\n\t\t\t\n\t\t\t20\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika, Biologija, Kemija i Geografija\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tEkoloski tehničar – 4 godine\n\n\t\t\t(nastava na srpskom jeziku)\n\t\t\t\n\t\t\t\n\t\t\t20\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika, Biologija, Kemija i Srpski jezik\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tElektrotehničar – 4 godine\n\t\t\t\n\t\t\t\n\t\t\t20\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika, Fizika, Kemija i Tehnička kultura\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tElektritehničar – 4 godine\n\n\t\t\t(nastava na srpskom jeziku)\n\t\t\t\n\t\t\t\n\t\t\t20\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika, Fizika, Tehnička kultura i Srpski jezik\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tStrojarski računalni tehničar – 4 godine\n\t\t\t\n\t\t\t\n\t\t\t \n\n\t\t\t20\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika, Fizika, Kemija i Tehnička kultura\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tStrojarski računalni tehničar – 4 godine (nastava na srpskom jeziku)\n\t\t\t\n\t\t\t\n\t\t\t20\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika, Fizika, Kemija i Srpski jezik\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tTehničar za računalstvo – 4 godine\n\t\t\t\n\t\t\t\n\t\t\t20\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika, Fizika, Kemija i Tehnička kultura\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tTehničar za računalstvo – 4 godine (nastava na srpskom jeziku)\n\t\t\t\n\t\t\t\n\t\t\t20\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika, Fizika,  Tehnička kultura i Srpski jezik\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tAutomehaničar – JMO – 3 godine\n\t\t\t\n\t\t\t\n\t\t\t8\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tAutomehaničar -JMO – 3 godine (nastava na srpskom jeziku)\n\t\t\t\n\t\t\t\n\t\t\t8\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tAutoelektričar – JMO – 3 godine\n\t\t\t\n\t\t\t\n\t\t\t8\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tAutoelektričar - JMO – 3 godine (nastava na srpskom jeziku)\n\t\t\t\n\t\t\t\n\t\t\t8\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tBravar – JMO – 3 godine\n\t\t\t\n\t\t\t\n\t\t\t6\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tElektroinstalater - JMO – 3 godine (nastava na srpskom jeziku)\n\t\t\t\n\t\t\t\n\t\t\t6\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tAutolimar – JMO – 3 godine\n\t\t\t\n\t\t\t\n\t\t\t6\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tAutolimar – JMO – 3 godine (nastava na srpskom jeziku)\n\t\t\t\n\t\t\t\n\t\t\t6\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tPlinoinstalater – JMO – 3 godine\n\t\t\t\n\t\t\t\n\t\t\t6\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tPlinoinstalater  - JMO – 3  godine (nastava na srpskom jeziku)\n\t\t\t\n\t\t\t\n\t\t\t6\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tVodoinstalater – JMO – 3 godine\n\t\t\t\n\t\t\t\n\t\t\t6\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tVodoinstalater – JMO – 3 godine  (nastava na srpskom jeziku)\n\t\t\t\n\t\t\t\n\t\t\t6\n\t\t\t\n\t\t\t\n\t\t\tHrvatski jezik, Prvi strani jezik, Matematika\n\t\t\t\n\t\t\n\t\n\n\n \n",
+    "",
+    ""
+  ]
 }
 {
   "getTitle": [
     "Sastanak predsjednice Vijeća učenika s ravnateljem škole"
   ],
-  "getImgs": []
-}
-{
-  "getTitle": [
-    "Sastanak predsjednice Vijeća učenika s ravnateljem škole"
-  ],
-  "getImgs": []
-}
-{
-  "getTitle": [
-    "Humanitarna akcija Vijeća učenika"
-  ],
-  "getImgs": [
-    "/upload/ss-tehnicka-ntesla-vu/newsattach/1309/IMG_20221223_124230.jpg",
-    "/upload/ss-tehnicka-ntesla-vu/newsattach/1309/IMG_20221223_130927_edit_18730000875266.jpg"
+  "getImgs": [],
+  "getText": [
+    "",
+    "Dana 7.3.2023.godine održan je sastanak predsjednice Vijeća učenika Nikoline Velikić  s ravnateljem škole Đorđem Lukićem.",
+    "\n",
+    "",
+    "",
+    " Na sastanku se razgovaralo o temama koje su važne učenicima naše škole.",
+    "Neke od tema sastanka bile su trajanje velikog odmora tijekom skraćenih sati (zbog izvannastavnih aktivnosti), izrada nadstrešnice za bicikle i odijevanje učenika.",
+    "Ravnatelj škole izašao je u susret učenicima koji nisu imali dovoljno vremena za objedovanje te je veliki odmor produljen na petnaest minuta. Osim toga, ravnatelj je rekao da će se pobrinuti da nadstrešnica za bicikle bude izrađena, a za odijevanje tj. omogućavanje nošenja bermuda u školi naglasio je da se još uvijek nisu stvoreni uvjeti za to te da se plaši zlouporabe promjene pravila.",
+    "Ravnatelj je govorio i o uređenju prostora za učenike koji se planiraju gdje će se učenici moći socijalizirati  i opustiti tijekom odmora.   ",
+    ""
   ]
 }
 {
@@ -44,43 +65,85 @@
   "getImgs": [
     "/upload/ss-tehnicka-ntesla-vu/newsattach/1309/IMG_20221223_124230.jpg",
     "/upload/ss-tehnicka-ntesla-vu/newsattach/1309/IMG_20221223_130927_edit_18730000875266.jpg"
+  ],
+  "getText": [
+    "",
+    "Vijeće učenika naše škole organiziralo je prikupljanje pomoći za socijalnu samoposlugu u sklopu humanitarne udruge Duga u Vukovaru.",
+    "\n",
+    "",
+    "",
+    "Kako bi pomogli onima kojima je pomoć najpotrebnija, Vijeće učenika provelo  je akciju  prikupljanja prehrambenih i higijenskih proizvoda za socijalnu samoposlugu. Akcija je trajala do 23.prosinca 2022.godine kada je voditeljica Vijeća, učenica Nikolina Velikić, u pratnji nastavnice Tamare Tomić predala pomoć socijalnoj samoposluzi.",
+    "Vijeću učenika uručena je zahvalnica nakon čega je uslijedio obilazak prostorija udruge i razgovor o radu udruge. Vijeće učenika planira u budućnosti, osim doniranjem pomoći, pomoći rad udruge i putem volonterskih akcija.",
+    "Zahvaljujemo se svima  koji su se priključili akciji i želimo vam sretne blagdane!",
+    ""
   ]
 }
 {
   "getTitle": [
     "Međunarodni dan sjećanja na žrtve Holokausta"
   ],
-  "getImgs": []
+  "getImgs": [],
+  "getText": [
+    "",
+    "",
+    "\n",
+    "",
+    "",
+    "Dana 27.siječnja 2023.godine u okviru projekta Šafran nastavnici Damir Golub, prof.povijesti i Tamara Tomić, prof.engleskog jezika i književnosti obilježili su Međunarodni dan sjećanja na žrtve Holokausta.\nNastavnici su pripremili i sproveli radionicu s učenicima 1.bTR razreda. Radionica se sastojala od povijesnog uvoda te analize povijesnih i pisanih izvora, kao i povezivanja prošlosti sa sadašnjim trenutkom.\nOsim toga, u obilježavanju ovog važnog datuma sudjelovali su i učenici 3.aEKT analiziranjem ulomaka iz dnevnika Anne Frank povezujući unutrašnji svijet djevojčice s vanjskim, jako važnim povijesnim događajima.",
+    ""
+  ]
 }
 {
   "getTitle": [
     "Proslavljen 87. rođendan naše škole"
   ],
-  "getImgs": []
+  "getImgs": [],
+  "getText": [
+    "",
+    "",
+    "\n\n \n",
+    "",
+    ""
+  ]
 }
 {
   "getTitle": [
     "Završni radovi"
   ],
-  "getImgs": []
-}
-{
-  "getTitle": [
-    "Završni radovi"
-  ],
-  "getImgs": []
+  "getImgs": [],
+  "getText": [
+    "",
+    "ROKOVI POLAGANJA ISPITA DRŽAVNE MATURE PREMA KALENDARU NCVVO-a ZA OVU ŠKOLSKU GODINU",
+    "\n\n \n\n OBRANA ZAVRŠNOG RADA\n\nTeme za završni rad učenici biraju najkasnije do 31. listopada tekuće školske godine.\n\nZavršni rad brani se u:\n\n\n\tljetnom roku – LIPANJ 2023. god. (od 01.06.-15.06.2023.)\n\tjesenjskom roku – KOLOVOZ 2023. god. ( od 22.08.-30.08.2023.)\n\tzimskom roku – VELJAČA 2024.god. (od 01.02.-15.02.2024.)\n\n\nNapominjem, da ćemo termine polaganja završnog rada prilagoditi kalendaru Ministarstva.\n\n\n\tDatum prijave: 16. i 17.03.2023.god.\n\tDatum predaje rada: 26. i 27.04. 2023.god.\n\tDatum obrane rada: od 01.06. do 15.06.2023.\n\n\nU školskoj 2022./2023. godini popis tema za završne radove priložen je u dolje objavljenim dokumentima.\n\nZa zanimanje ekološki tehničar teme su objavljene u dokumentu\n\nEKOLOŠKI TEHNIČAR - TEME ZAVRSNIH RADOVA.\n\nTeme za sektor elektrotehnika i računalstvo objavljene su u dokumentu\n\nELEKTROTEHNIKA I RACUNALSTVO.\n\nTeme za sektor strojarstvo, brodogradanja, metalurgija objavljene su u dokumentu\n\nSTROJARSTVO BRODOGRADNJA METALURGIJA.\n",
+    "",
+    ""
+  ]
 }
 {
   "getTitle": [
     "Ekolozi u Tehničkoj školi Nikole Tesle"
   ],
-  "getImgs": []
+  "getImgs": [],
+  "getText": [
+    "",
+    "      ",
+    "\n",
+    "",
+    ""
+  ]
 }
 {
   "getTitle": [
     "IndexHR o robotici u našoj školi"
   ],
-  "getImgs": []
+  "getImgs": [],
+  "getText": [
+    "",
+    "Vukovarski srednjoškolci osmislili rješenje za školu na daljinu",
+    "\n",
+    "",
+    ""
+  ]
 }
 {
   "getTitle": [
@@ -88,9 +151,9 @@
   ],
   "getImgs": [
     "/upload/ss-tehnicka-ntesla-vu/newsattach/1112/Popis_licenciranih_obrtnika.pdf"
+  ],
+  "getText": [
+    "",
+    ""
   ]
-}
-{
-  "getTitle": [],
-  "getImgs": []
 }
